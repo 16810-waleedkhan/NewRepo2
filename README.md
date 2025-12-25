@@ -1,0 +1,1 @@
+The Login and Sign-Up System is a critical component of any modern application. This project aims to deliver a secure, reliable, and user-friendly authentication system by following standard security practices and efficient design principles
